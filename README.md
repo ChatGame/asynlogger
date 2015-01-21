@@ -1,3 +1,4 @@
+*A asynchronous File logger for Android
 # InitLogger
 ```
  //Log file dir
